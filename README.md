@@ -78,3 +78,23 @@ Focus on:
 2. Understanding how digital signatures work (plenty of tutorials online)
 3. Getting the frontend-backend communication working
 4. Testing that your verification works correctly
+
+
+-------------------------------------------------------
+
+My submission:
+
+Name: Marko Janevski (any name)
+GitHub Username: markoj (first 6 characters from github username)
+
+Sample Signed Message: BLOCKIA-MarkoJanevski-markoj-20250414
+
+
+How to run the project:
+1.Clone the repo: git clone https://github.com/markojanevski/blockia-internship-digital-identity-challenge-2025
+2.cd digitalidentity
+3.Open terminal(cmd) and run next lines
+3.npm install
+4.npm run dev
+5.Open https://localhost:3000 in your browser
+6.Click on Login with your ID button to see the verification result
